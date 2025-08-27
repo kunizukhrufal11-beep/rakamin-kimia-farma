@@ -1,6 +1,6 @@
 # Kimia Farma - Big Data Analyst Final Task
 
-Project ini merupakan bagian dari Virtual Internship Experience (VIX) untuk menganalisis kinerja bisnis **Kimia Farma** pada periode **2020–2023**.  
+Project ini merupakan bagian dari Virtual Internship Experience untuk menganalisis kinerja bisnis **Kimia Farma** pada periode **2020–2023**.  
 Analisis dilakukan menggunakan **Google BigQuery** untuk pengolahan data dan **Google Looker Studio** untuk visualisasi.
 
 ---
