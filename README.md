@@ -44,6 +44,15 @@ Semua query dapat ditemukan di folder `queries/`.
 - `total_profit.sql`  
   Menampilkan total profit per provinsi (untuk geo map Indonesia).
 
+  - `top10_produk.sql`  
+  Menampilkan 10 produk dengan penjualan tertinggi.
+
+- `distribusi_diskon.sql`  
+  Menampilkan distribusi diskon dan dampaknya ke penjualan.
+
+  - `groeth_pendapatan_YoY.sql`  
+  Menampilkan % growth pendapatan antar tahun 2020-2023.
+
 ---
 
 ## 📊 Dashboard
@@ -52,6 +61,9 @@ Dashboard analisis dibuat di **Google Looker Studio** dan menampilkan:
 - Top 10 provinsi berdasarkan transaksi & nett sales
 - Top 5 cabang rating tinggi vs transaksi rendah
 - Geo Map total profit per provinsi
+- Top 10 produk penjualan tertinggi
+- Distribusi diskon & dampak ke penjualan
+- % Growth pendapatan antar tahun
 - Summary metrics (total transaksi, total nett sales, rata-rata rating)
 
 ---
