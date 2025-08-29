@@ -44,13 +44,13 @@ Semua query dapat ditemukan di folder `queries/`.
 - `total_profit.sql`  
   Menampilkan total profit per provinsi (untuk geo map Indonesia).
 
-  - `top10_produk.sql`  
+- `top10_produk.sql`  
   Menampilkan 10 produk dengan penjualan tertinggi.
 
 - `distribusi_diskon.sql`  
   Menampilkan distribusi diskon dan dampaknya ke penjualan.
 
-  - `groeth_pendapatan_YoY.sql`  
+- `groeth_pendapatan_YoY.sql`  
   Menampilkan % growth pendapatan antar tahun 2020-2023.
 
 ---
